@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "High energy density fuel Research Group"
+title: "Fuel/Photo & Electro catalysis Research Group"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The High energy density fuel Research Group has been a center of excellence for high energy density fuel research since its founding.
+The Fuel/Photo & Electro catalysis Research Group has been a center of excellence for high energy density fuel, photo&electro catalysis research since its founding.
