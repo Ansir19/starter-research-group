@@ -1,14 +1,13 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2020-12-02
+title: 天津大学邹吉军教授课题组Angew：超薄TiO2对锚定的Fe(III)自旋态进行调控实现高效OER 
+date: 2019-12-19
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+析氧反应（OER）是水分解和可充电金属-空气电池的重要半反应，但是其复杂的四电子过程导致的缓慢的动力学特性阻碍了它的发展。当前，最先进的OER电催化剂是基于贵金属的催化剂，例如IrO2或RuO2，但是其昂贵和稀缺性限制了其广泛应用。因此，设计具有成本效益和高效的OER电催化剂至关重要。3d过渡金属基氧化物和（羟基）氢氧化物因其独特的电子结构和结构的灵活性而被认为是有前途的无贵金属电催化剂。铁氧化化物和（羟基）氢氧化物虽然储量丰富且成本低，但由于过高的自旋态（例如填充量约2.0）抑制了与反应中间体的结合，因此很少考虑用做析氧反应（OER）催化剂。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+近日，天津大学邹吉军等报告了一种简便的吸附-氧化策略，将Fe（III）原子锚定在超薄TiO2纳米带上，以降低自旋态（例如，填充量〜1.08），从而增强含氧中间体的吸附并提高电导率降低欧姆损耗。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+      
