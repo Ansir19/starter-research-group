@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zou Jijun
+title: Huang Zhenfeng
 
 # Is this the primary user of the site?
 superuser: true
@@ -25,7 +25,7 @@ education:
   courses:
   - course: Phd in Chemical Engineering
     institution: Tianjin University
-    year: 2005
+    year: 2016
   
 
 # Social/Academic Networking
