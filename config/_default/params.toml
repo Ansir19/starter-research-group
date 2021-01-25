@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "This is Prof. Zou Jijun's Lab!"
 
 ############################
 ## Site Features
@@ -93,7 +93,7 @@ address = {street = "No.135 Yaguan Road ", city = "TianJin", region = "TianJin",
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "38.9963", longitude = "117.3256"}
+coordinates = {latitude = "39.0008", longitude = "117.3113"}
 
 # Directions for visitors to locate you.
 directions = "Enter Building 54 and take the elevator to Floor 5 E559"
