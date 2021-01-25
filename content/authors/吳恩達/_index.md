@@ -67,7 +67,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
+#- Visitors
 ---
 
 As the person in charge, presided over more than 10 projects of the National Natural Science Foundation of China (general and youth), major national science and technology projects, the Science and Technology Commission, the Ministry of Education's equipment pre-research, Tianjin Natural Science Foundation, and enterprise commissioned projects; published more than 50 SCI papers , 3 cover papers; the total number of citations is more than 3,000, and the h factor is 32; obtained 10 Chinese invention patents and 1 American invention patent; successively went to the United States, Canada, Pakistan and other places to participate in international conferences and invited report.
